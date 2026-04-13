@@ -71,6 +71,9 @@ The goal of this project was to transform raw survey data into a structured Powe
 - Compared NPS across age groups and years.
 - Built a year-over-year NPS view showing a **+46 point improvement**, with NPS increasing from **1 in 2021** to **47 in 2022**.
 
+<img width="660" height="379" alt="image" src="https://github.com/user-attachments/assets/a39b69bc-a899-4c64-8102-5ab7ff24aa50" />
+
+
 ### 4. Service Experience Indicator Analysis
 - Tracked score distribution across key service indicators, including:
   - departure and arrival time convenience
@@ -90,6 +93,9 @@ The goal of this project was to transform raw survey data into a structured Powe
 - Analysed year-over-year score change by category and service attribute.
 - Explored the relationship between **departure delay** and **average passenger score**.
 
+<img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/696c2009-90cf-4929-bd3d-0d5d964d4011" />
+
+
 ### 5. Reporting & Data Storytelling
 - Organised the report into five sections:
   - Key Findings
@@ -103,7 +109,7 @@ The goal of this project was to transform raw survey data into a structured Powe
 
 ## Skills
 
-```text
+
 Power BI
 Power Query
 DAX
@@ -117,5 +123,36 @@ Dashboard Design
 Data Storytelling
 Accessible Reporting
 
----
+## Results & Business Recommendation
 
+### Key Results
+
+Analysed 129,880 survey records across the 2021–2022 survey period.
+Found a stable respondent base for year-over-year comparison:
+  2022: 65,326 responses
+  2021: 64,554 responses
+Identified that 82% of 2022 respondents were returning passengers.
+Measured a 46-point increase in NPS, rising from 1 in 2021 to 47 in 2022.
+Observed broad improvement across service indicators.
+Identified weaker areas requiring closer monitoring, especially:
+  online booking
+  in-flight Wi-Fi
+  delay-related experience
+Found evidence of a negative relationship between longer departure delays and lower average satisfaction scores.
+
+### Business Recommendation
+
+Use the dashboard as an ongoing monitoring tool for:
+  sentiment trends
+  service performance indicators
+  cohort-level patterns over time
+Prioritise operational review in weaker service areas, especially:
+  online booking
+  in-flight Wi-Fi
+  delay-related experience
+Strengthen year-over-year reporting across respondent groups and service measures.
+Expand future reporting with:
+  more granular segment analysis
+  qualitative feedback
+  live reporting capability
+  broader evidence-based decision support
