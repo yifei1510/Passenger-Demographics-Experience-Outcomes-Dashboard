@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project is a Power BI infographic-style dashboard built to analyse passenger demographics, sentiment, and service experience across the 2021–2022 survey period.
+This project is a Power BI dashboard built to analyse passenger demographics, sentiment, and service experience across the 2021–2022 survey period.
 
 The report brings together **129,880 survey records** to support demographic profiling, cohort comparison, year-over-year reporting, service indicator tracking, and recommendation-focused insights. Key findings included a **46-point improvement in Net Promoter Score (NPS)** from **1 in 2021** to **47 in 2022**, alongside broader improvement across service experience measures.
 
