@@ -4,9 +4,11 @@
 
 This project is a Power BI dashboard built to analyse passenger demographics, sentiment, and service experience across the 2021–2022 survey period.
 
-The report brings together **129,880 survey records** to support demographic profiling, cohort comparison, year-over-year reporting, service indicator tracking, and recommendation-focused insights. Key findings included a **46-point improvement in Net Promoter Score (NPS)** from **1 in 2021** to **47 in 2022**, alongside broader improvement across service experience measures.
+The report brings together **129,880 survey records** to support demographic profiling, cohort comparison, year-over-year reporting, service indicator tracking, and recommendation insights. Key findings included a **46-point improvement in Net Promoter Score (NPS)** from **1 in 2021 to 47 in 2022**, alongside broader improvement across service experience measures.
 
-The dashboard also highlighted weaker areas requiring closer monitoring, particularly **online booking**, **in-flight Wi-Fi**, and **delay-related experience**, and translated these findings into clear recommendations for ongoing reporting and service improvement.
+The dashboard also highlighted weaker areas requiring closer monitoring, particularly **online booking, in-flight Wi-Fi, and delay-related experience**, and translated these findings into clear recommendations for ongoing reporting and service improvement.
+
+**Live Dashboard:** [View the Power BI Report](https://app.powerbi.com/groups/me/reports/87929ab2-c43b-4d35-a0eb-7f0336095a8f/30ff594193707c80255a?experience=power-bi)
 
 ---
 
